@@ -2,7 +2,7 @@
 
 💻 Programmer at [FPF Tech](https://fpftech.com/principal)
 
-🎓 Graduating in Computer Science at the Federal University of Amazonas (UFAM)
+🎓 On-going Computer Science course on Federal University of Amazonas (UFAM)
 
 📧 mathbalon@gmail.com / mgbl@icomp.ufam.edu.br
 
@@ -15,8 +15,6 @@
 <br />
 
 ----------------
-
-Graduating in Computer Science at Federal University of Amazonas.
 
 During college I had experience with projects related to machine learning and natural language processing. I was part of the Academic Center for Computer Science (CACICOM) for two years as the Sports Director and I volunteered as an instructor in the freshman level in Introduction to Calculus and Introduction to C programming language.
 
