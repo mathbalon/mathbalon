@@ -1,8 +1,10 @@
 # Matheus Balonecker 💻
-
-💻 Programmer at [FPF Tech](https://fpftech.com/principal)
-
+<!--
+💻 I’m currently working on...
+-->
 🎓 On-going Computer Science course on Federal University of Amazonas (UFAM)
+
+⚡ Fun fact: I love play to dominoes (Amazonas style)
 
 📧 mathbalon@gmail.com / mgbl@icomp.ufam.edu.br
 
