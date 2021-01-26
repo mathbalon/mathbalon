@@ -4,7 +4,7 @@
 -->
 🎓 On-going Computer Science course on Federal University of Amazonas (UFAM)
 
-⚡ Fun fact: I love play to dominoes (Amazonas style)
+⚡ Fun fact: I love to play dominoes (Amazonas style)
 
 📧 mathbalon@gmail.com / mgbl@icomp.ufam.edu.br
 
