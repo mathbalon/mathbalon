@@ -1,6 +1,6 @@
 # Matheus Balonecker 💻
 
-💻 Software Developer at Méliuz(https://www.linkedin.com/company/meliuz/)
+💻 Software Developer at [Méliuz](https://www.linkedin.com/company/meliuz/)
 
 🎓 On-going Computer Science course on Federal University of Amazonas (UFAM)
 
