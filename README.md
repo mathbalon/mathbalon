@@ -1,7 +1,7 @@
 # Matheus Balonecker 💻
-<!--
-💻 I’m currently working on...
--->
+
+💻 Software Developer at Méliuz(https://www.linkedin.com/company/meliuz/)
+
 🎓 On-going Computer Science course on Federal University of Amazonas (UFAM)
 
 ⚡ Fun fact: I love to play dominoes (Amazonas style)
