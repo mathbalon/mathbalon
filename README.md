@@ -1,6 +1,6 @@
 # Matheus Balonecker 💻
 
-💻 Software Developer at [Méliuz](https://www.linkedin.com/company/meliuz/)
+💻 Software Engeneer at [Jusbrasil](https://www.linkedin.com/company/jusbrasil/)
 
 🎓 Bachelor of Computer Science at the Federal University of Amazonas (UFAM)
 
@@ -20,7 +20,7 @@
 
 During college I had experience with projects related to machine learning and natural language processing. I was part of the Academic Center for Computer Science (CACICOM) for two years as the Sports Director and I volunteered as an instructor in the freshman level in Introduction to Calculus and Introduction to C programming language.
 
-As a software developer, I worked at one of the most traditionally renowned companies in the city of Manaus: FPF Tech. I am currently a Software Developer at Méliuz, the best company in the technology area in the North.
+As a software developer, I worked at one of the most traditionally renowned companies in the city of Manaus: FPF Tech. I also worked at Méliuz, the biggest cashback company in Brazil. I am currently a Software Engeneer at Jusbrasil.
 
 As a professional I love what I do and deeply admire the colleagues who work with me in the field. It always inspires me to know that I can create solutions that change people's lives directly with effort and creativity at any time. As a person I am very proud of Manaus, where I was born and live until today, and I love all the aspects that make it unique.
 
